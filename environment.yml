@@ -1,0 +1,10 @@
+name: SComatic
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - samtools
+  - datamash
+  - bedtools
+  - r-base=3.6.1
